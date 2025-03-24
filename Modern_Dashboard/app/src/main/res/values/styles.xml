@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Modern_Dashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
